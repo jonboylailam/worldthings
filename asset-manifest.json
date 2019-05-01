@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/worldthings/static/css/main.eb14524e.chunk.css",
+    "main.js": "/worldthings/static/js/main.2d097482.chunk.js",
+    "main.js.map": "/worldthings/static/js/main.2d097482.chunk.js.map",
+    "runtime~main.js": "/worldthings/static/js/runtime~main.2bd9c42f.js",
+    "runtime~main.js.map": "/worldthings/static/js/runtime~main.2bd9c42f.js.map",
+    "static/js/2.3310f33a.chunk.js": "/worldthings/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/worldthings/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/worldthings/index.html",
+    "precache-manifest.a2f866e1f573782ef18496c9ca97d237.js": "/worldthings/precache-manifest.a2f866e1f573782ef18496c9ca97d237.js",
+    "service-worker.js": "/worldthings/service-worker.js",
+    "static/css/main.eb14524e.chunk.css.map": "/worldthings/static/css/main.eb14524e.chunk.css.map"
+  }
+}
