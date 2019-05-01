@@ -2,7 +2,7 @@
   "name": "worldthings",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jonboylailam.github.io/worldthings",
+  "homepage": "https://worldthings.life",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
