@@ -1,3 +1,18 @@
+# Worldthings.life
+
+## Stories
+
+### Emma adventures  
+
+Scene1: This is Emma.  
+Scene2: Emma lived in a big tree. 
+Scene3: A doggy lived in a house that owned the big tree. 
+Scene4: Trickster trickester who was a lion tried to catch Emma. To the lions surprise Emma ran to the lion but just before they went bang crash Emma went up into the sky. 
+Scene5: Emma found a good tree to build her nest in, so she did.
+Scene6: She loved her new tree she went crazy and flew all over the place and landed by the sun.
+Scene7: It was a very hot day and she went to her tree with her sun hat on. 
+Scene8: And out popped Ted. Ted was wearing his beanie because it was snowing. The End... 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
